@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Moveit" src="public/icon.svg" width="160px">
+    <img alt="PodCastr" src="public/logo.svg" width="160px">
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="public/podcastr.svg.svg" width="160px">
+  <img alt="PodCastr" src="public/podcastr.svg">
 </p>
 
 ## 🧪 Technologies
@@ -37,7 +37,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/podcastr.git && cd podcastr
+$ git clone https://github.com/JorgeFPeres/App_React_PodCastr.git && cd App_React_PodCastr
 ```
 
 Follow the steps below
