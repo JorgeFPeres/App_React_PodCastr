@@ -34,7 +34,7 @@ This project was developed using the following technologies:
 
 ## 🚀 Getting started
 
-Clone the project and access the folder
+Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/JorgeFPeres/App_React_PodCastr.git && cd App_React_PodCastr
